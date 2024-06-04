@@ -3,4 +3,6 @@
 ## Описание работы программы
 Инициализруем два массива. Проходимся по элементам первого массива и проверяем их длину. Если длина меньше или равно 3 записываем во второй массив. Выводим второй массив.
 
-!(https://github.com/Johancheg/gb_checkpoint1/blob/main/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC.png)
+```
+(https://github.com/Johancheg/gb_checkpoint1/blob/main/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC.png)
+```
