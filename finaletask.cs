@@ -11,10 +11,15 @@ class Program
         {
             if (mainarray[i].Length <= 3)
             {
-                resultarray[resultindex] = resultarray[i];
+                resultarray[resultindex] = mainarray[i];
                 resultindex++;
             }
         }
+        Console.WriteLine("Финальный массив: ");
+        for (int i = 0; i < resultindex; i++)
+        {
+            Console.WriteLine(resultarray[i]);
+        }    
         
     }
 }
